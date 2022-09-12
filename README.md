@@ -1,7 +1,7 @@
 - 👋 Hi, I’m harsh
-- 👀 I’m interested in learning new
-- 🌱 I’m currently learning java and javascript
-- 💞️ I’m looking to collaborate on 
+- 👀 I’m interested in learning new 
+- 🌱 I’m currently  on learning mode
+- 💞️ I’m looking to collaborate on
 - 📫 How to reach me harshmehta0519@gmail.com
 
 <!---

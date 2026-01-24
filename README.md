@@ -48,10 +48,11 @@
 
 #### Animations & UI
 <p align="left">
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" />
-  <img src="https://img.shields.io/badge/Framer%20Motion-000000?style=for-the-badge&logo=framer&logoColor=white" />
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/GreenSock_Animation_Platform_Logo.svg" width="40"/>
+  <img src="https://seeklogo.com/images/F/framer-motion-logo-DA1E33CAA1-seeklogo.com.svg" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Three.js_Icon.svg" width="40"/>
 </p>
+
 
 
 #### Backend & APIs

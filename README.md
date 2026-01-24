@@ -48,9 +48,9 @@
 
 #### Animations & UI
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/GreenSock_Animation_Platform_Logo.svg" width="40"/>
-  <img src="https://seeklogo.com/images/F/framer-motion-logo-DA1E33CAA1-seeklogo.com.svg" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Three.js_Icon.svg" width="40"/>
+  <img src="https://cdn.simpleicons.org/greensock/88CE02" width="40"/>
+  <img src="https://cdn.simpleicons.org/framer/000000" width="40"/>
+  <img src="https://cdn.simpleicons.org/three.js/ffffff" width="40"/>
 </p>
 
 

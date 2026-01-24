@@ -49,7 +49,7 @@
 #### Animations & UI
 <p align="left">
   <img src="https://cdn.simpleicons.org/greensock/88CE02" width="40"/>
-  <img src="https://cdn.simpleicons.org/framer/000000" width="40"/>
+  <img src="https://cdn.simpleicons.org/framer/ffffff" width="40"/>
   <img src="https://cdn.simpleicons.org/three.js/ffffff" width="40"/>
 </p>
 
